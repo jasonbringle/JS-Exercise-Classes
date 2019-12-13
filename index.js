@@ -152,7 +152,7 @@ const Jason = new Lambdasian(jObj);
         + `grade` receives a `student` object and a `subject` string as arguments and returns '{student.name} receives a perfect score on {subject}'
 */
 
-// specialty,favLanguage,catchphrase
+// specialty, favLanguage,catchphrase
 
 
 class Instructor extends Lambdasian {
